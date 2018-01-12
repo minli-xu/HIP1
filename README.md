@@ -14,8 +14,8 @@ Accepted by **Nucleic Acids Research**   (Last updated: 1-11-2018)
 3. MatLab scripts for periodicity analysis and sine wave curve fitting [[link]](https://github.com/minli-xu/HIP1/tree/master/periodicity)
 
 ### Datasets
-1. Genomic coordinates for HIP1 and control motifs /hexamers  (with randomized coordinates) [[link]](https://github.com/minli-xu/HIP1/tree/master/HIP1_coordinates_and_random)
-2. Parameters estimated from sine wave fitting for HIP1 and control motifs / hexamers (with randomized coordinates) [[link]](https://github.com/minli-xu/HIP1/tree/master/HIP1_periodicity_parameters)
+1. Genomic coordinates for HIP1 and control hexamers  (with randomized coordinates) [[link]](https://github.com/minli-xu/HIP1/tree/master/HIP1_coordinates_and_random)
+2. Parameters estimated from sine wave fitting for HIP1 and control hexamers (with randomized coordinates) [[link]](https://github.com/minli-xu/HIP1/tree/master/HIP1_periodicity_parameters)
 3. Transcripts dataset from [Vijayan et. al. (2011) paper](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2011-12-5-r47) (with transcripts ACEu scores) [[link]](https://github.com/minli-xu/HIP1/tree/master/oshea_dataset)
 
 ### Other software used
