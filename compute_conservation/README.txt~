@@ -1,0 +1,13 @@
+
+The Perl script compute_consv_SAK.pl will compute the motif conservation given a pair of genomes (the input of the script), which are pre-aligned in MAUVE
+
+MAUVE is a whole genome alignment tool.
+
+
+A sample input file (sample MAUVE output file) is given as syh_syg_gai.
+
+MAUVE can be obtained following this URL:
+
+http://darlinglab.org/mauve/mauve.html
+
+In our study, default parameters were used in MAUVE.
