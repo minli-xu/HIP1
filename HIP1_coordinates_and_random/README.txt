@@ -2,8 +2,8 @@ Genomic coordinates for HIP1-like (HIP1+HIP1*) and random motifs
 --------------------------------------------------------------------
 
 
-In directory HIP1_from_48_HIP1_rich_genomes/ You can find the cooridnates for 
-HIP1-like(HIP1+HIP1*) motif, for all 48 HIP1 riched genomes
+In directory HIP1_from_50_HIP1_rich_genomes/ You can find the cooridnates for 
+HIP1-like(HIP1+HIP1*) motif, for all 50 HIP1 riched genomes
 
 
 [Filename convention]
@@ -28,8 +28,8 @@ They are sorted within each line
 The first element of each array is always the CHROMOSOME SIZE.
 
 
-In directory Ctrl_from_7_posterboys/ You will have the cooridnates for 
-control motifs for the 7 cyanobacterial genomes analyzed in the paper.
+In directory Ctrl_from_50_HIP1_rich_genomes/ You will have the cooridnates for 
+control motifs for the 50 cyanobacterial genomes analyzed in the paper.
 
 Everything is in the same format as the HIP1-like motif.
 
