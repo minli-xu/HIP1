@@ -4,7 +4,7 @@
 
 by Minli Xu, Jeffrey G. Lawrence, and Dannie Durand
 
-Accepted by **Nucleic Acids Research**   (Last updated: 1-27-2018)
+**Nucleic Acids Research**, Volume 46, Issue 5, 16 March 2018, Pages 2265–2278, [[https://doi.org/10.1093/nar/gky075]](https://doi.org/10.1093/nar/gky075)
 
 ---
 
